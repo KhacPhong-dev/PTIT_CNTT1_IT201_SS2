@@ -15,7 +15,7 @@ int main() {
     printf("mang truoc khi dao nguoc: ");
     for (int i = 0; i < n; i++) {
         printf("%d ", arr[i]);
-    }`
+    }
 
     for (int i = 0; i < n / 2; i++) {
         int temp = arr[i];
