@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    int n,a;
+    int n;
     printf("nhap vao so luong phan tu cua mang:");
     scanf("%d",&n);
     int arr[n];
